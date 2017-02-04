@@ -28,7 +28,8 @@ A listing of known conferences, their current costs, and other helpful informati
 *   **May 3rd-5th: [Elixir Conf EU](http://www.elixirconf.eu/) Tutorials & Conference in Barcelona, Spain**
 
   _Ticket Price Range:_ €302.50  - €544.00, depending on how early you get them.
-*   **July 7th - 23rd (Save-the-Date): [OpenCamps](http://opencamps.org/)**  
-    Keep an eye on this one! OpenCamps are conferences focused on building mission-driven open source communities. There are camps for several different languages, each with a mix of trainings, keynotes, and contribution sprints. Check out the 2016 camps for [Elixir](http://elixircamp.io/), [Erlang](http://erlang.camp/), [Phoenix](http://nyc.phoenix.camp/), and [Nerve](http://nerves.camp/).
 
 *   **Sept 5th - 8th: [ElixirConf US](https://elixirconf.com/) in Bellevue, WA**
+
+*   **Sept 7th - 10th: [OpenCamps](http://opencamps.org/)**  
+    Keep an eye on this one! OpenCamps are conferences focused on building mission-driven open source communities. There are camps for several different languages, each with a mix of trainings, keynotes, and contribution sprints. Check out the 2016 camps for [Elixir](http://elixircamp.io/), [Erlang](http://erlang.camp/), [Phoenix](http://nyc.phoenix.camp/), and [Nerve](http://nerves.camp/).

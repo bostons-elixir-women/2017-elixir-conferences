@@ -31,5 +31,5 @@ A listing of known conferences, their current costs, and other helpful informati
 
 *   **Sept 5th - 8th: [ElixirConf US](https://elixirconf.com/) in Bellevue, WA**
 
-*   **Sept 7th - 10th: [OpenCamps](http://opencamps.org/)**  
+*   **Sept 7th - 10th: [OpenCamps](http://opencamps.org/)** in Midtown NYC
     Keep an eye on this one! OpenCamps are conferences focused on building mission-driven open source communities. There are camps for several different languages, each with a mix of trainings, keynotes, and contribution sprints. Check out the 2016 camps for [Elixir](http://elixircamp.io/), [Erlang](http://erlang.camp/), [Phoenix](http://nyc.phoenix.camp/), and [Nerve](http://nerves.camp/).
